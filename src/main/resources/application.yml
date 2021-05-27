@@ -10,7 +10,7 @@ spring:
           uri: https://github.com/ingjulianvega/mssc-asu-config-repo
           search-paths: '{application}'
 server:
-  port: 8112
+  port: 8113
 #Logging
 logging:
   level:
